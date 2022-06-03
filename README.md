@@ -28,9 +28,13 @@ I am a:
 
 - Creator of several AI models for **Crowd Density Estimator**, a project made by **Praxidike** that has won **🥇First place** in:
 
-  - **Hackathon** "AI for City"
-  - **Hackathon** NASA Space Apps Ruse
-  - Stoicho's Competition
+  - 🤖 **Hackathon** "AI for City"
+  - 🚀 **Hackathon** NASA Space Apps Ruse
+  - 💩 Stoicho's Competition
+  
+- Creator of the web app **Helti**, a project made by **Praxidike** that has won **🥇First place** in:
+
+  - 🧑‍⚕️ **Hackathon** "Online Healthcare"
 
 ## Skills
 
