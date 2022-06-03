@@ -32,7 +32,7 @@ I am a:
   - 🚀 **Hackathon** NASA Space Apps Ruse
   - 💩 Stoicho's Competition
   
-- Creator of the web app **Helti**, a project made by **Praxidike** that has won **🥇First place** in:
+- Creator of several AI models for **Helti**, a project made by **Praxidike** that has won **🥇First place** in:
 
   - 🧑‍⚕️ **Hackathon** "Online Healthcare"
 
