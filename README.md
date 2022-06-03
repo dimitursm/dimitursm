@@ -1,16 +1,42 @@
 ### Hi there 👋
 
-<!--
-**dimitursm/dimitursm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a:
 
-Here are some ideas to get you started:
+- Python Developer
+- Member of team "Praxidike"
+- AI Developer
+- Participant and winner of several competitions (on local, national and global level)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ---
+ <p>
+ <img width="160" align='right' src="https://i.imgur.com/Ek5IE2A.png">
+ </p>
+
+### About Praxidike
+
+**Praxidike** is an IT team with great experience and knowledge in AI and Web Development. We take details and desires into consideration and finalize a covet project. We excel in working with passion. We excel in pursuing self-improvement.
+
+🪐⭐
+
+*Praxidike /prækˈsɪdəkiː/, also known as Jupiter XXVII, is a retrograde irregular satellite of Jupiter.*
+
+  ---
+
+## Projects & Activity
+
+### As an AI dev
+
+- Creator of several AI models for **Crowd Density Estimator**, a project made by **Praxidike** that has won **🥇First place** in:
+
+  - **Hackathon** "AI for City"
+  - **Hackathon** NASA Space Apps Ruse
+  - Stoicho's Competition
+
+## Skills
+
+- **Programming Languages: Python, C#, Java, C++** 
+- **IDEs: Spyder, VS Code, code::blocks**
+- **Languages: Bulgarian, English, German, Japanese, Dutch** 
+
+<p align='right'>v2</p>
+
