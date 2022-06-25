@@ -39,7 +39,7 @@ I am a:
 ## Skills
 
 - **Programming Languages: Python, C#, Java, C++** 
-- **IDEs: Spyder, VS Code, code::blocks**
+- **IDEs: Spyder, VS Code, IntelliJ IDEA, code::blocks**
 - **Languages: Bulgarian, English, German, Japanese, Dutch** 
 
 <p align='right'>v2</p>
