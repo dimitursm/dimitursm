@@ -2,8 +2,8 @@
 
 I am a:
 
-- Python Developer
 - Member of team "Praxidike"
+- Python Developer
 - AI Developer
 - Participant and winner of several competitions (on local, national and global level)
 
