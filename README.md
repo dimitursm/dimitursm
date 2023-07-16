@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 I am a:
 
@@ -6,6 +6,7 @@ I am a:
 - Python Developer
 - AI Developer
 - Participant and winner of several competitions (on local, national and global level)
+- Rookie Game Developer
 
  ---
  <p>
@@ -35,12 +36,17 @@ I am a:
 - Creator of several AI models for **Helti**, a project made by **Praxidike** that has won **🥇First place** in:
 
   - 🧑‍⚕️ **Hackathon** "Online Healthcare"
+ 
+ ### As a game dev
+
+ - Created a few small projects using **🐻Ursina Engine** in Python
 
 ## Skills
 
 - **Programming Languages: Python, C#, Java, C++** 
 - **IDEs: Spyder, VS Code, IntelliJ IDEA, code::blocks**
-- **Languages: Bulgarian, English, German, Japanese, Dutch** 
+- **Languages: (fluent) Bulgarian, English, (basic) German, Japanese, Dutch**
+- **Cooking: Moussaka, Rice with chicken and veggies, Biscuit cake, Stews, Eggs**
 
 <p align='right'>v2</p>
 
