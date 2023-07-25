@@ -3,10 +3,9 @@
 I am a:
 
 - Member of team "Praxidike"
-- Python Developer
 - AI Developer
-- Participant and winner of several competitions (on local, national and global level)
 - Rookie Game Developer
+- Participant and winner of several competitions (on local, national and global level)
 
  ---
  <p>
